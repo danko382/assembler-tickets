@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage{amssymb}
+\usepackage[russian]{babel}
+\usepackage{graphicx}
+\usepackage[unicode]{hyperref}
+\usepackage{listings}
+\graphicspath{{images}}
+
+\begin{document}
+
+    \tableofcontents
+
+    \newpage
+
+    \lstloadlanguages{% Check Dokumentation for further languages ...
+    %[Visual]Basic
+    %Pascal
+    C,
+    C++,
+    csh,
+    %XML
+    %HTML
+    Java
+    }
+    \lstset{language=csh}
+
+    \section{Область применения языков программирования
+    низкого уровня. Поколения ПК IBM PC.}
+    \input{ticket_1.1.tex}
+
+    \section{Базовая архитектура ПК IBM PC.}
+    \input{ticket_1.2.tex}
+
+    \section{Организация памяти в реальном режиме работы.
+    Сегментые регистры. Понятие исполняемого и физического
+    адреса.}
+    \input{ticket_1.3.tex}
+
+    \section{Процессор с точки зрения программиста. Регистры
+    обзего назначения. Регистры флагов.}
+    \input{ticket_1.4.tex}
+
+\end{document}
