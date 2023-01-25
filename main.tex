@@ -6,6 +6,7 @@
 \usepackage{graphicx}
 \usepackage[unicode]{hyperref}
 \usepackage{listings}
+\usepackage{xcolor}
 \graphicspath{{images}}
 
 \begin{document}
@@ -14,32 +15,97 @@
 
     \newpage
 
-    \lstloadlanguages{% Check Dokumentation for further languages ...
-    %[Visual]Basic
-    %Pascal
-    C,
-    C++,
-    csh,
-    %XML
-    %HTML
-    Java
-    }
-    \lstset{language=csh}
+    \lstdefinelanguage[RISC-V]{Assembler}
+{
+ alsoletter={.}, % allow dots in keywords
+ alsodigit={0x}, % hex numbers are numbers too!
+ morekeywords=[1]{ % instructions
+ lb, lh, lw, lbu, lhu,
+ sb, sh, sw,
+ sll, slli, srl, srli, sra, srai,
+ add, addi, sub, lui, auipc,
+ xor, xori, or, ori, and, andi,
+ slt, slti, sltu, sltiu,
+ beq, bne, blt, bge, bltu, bgeu,
+ j, jr, jal, jalr, ret,
+ scall, break, nop
+  },
+ morekeywords=[2]{ % sections of our code and other directives
+ .align, .ascii, .asciiz, .byte, .data, .double, .extern,
+ .float, .globl, .half, .kdata, .ktext, .set, .space, .text, .word
+  },
+ morekeywords=[3]{ % registers
+ zero, ra, sp, gp, tp, s0, fp,
+ t0, t1, t2, t3, t4, t5, t6,
+ s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11,
+ a0, a1, a2, a3, a4, a5, a6, a7,
+ ft0, ft1, ft2, ft3, ft4, ft5, ft6, ft7,
+ fs0, fs1, fs2, fs3, fs4, fs5, fs6, fs7, fs8, fs9, fs10, fs11,
+ fa0, fa1, fa2, fa3, fa4, fa5, fa6, fa7
+  },
+ morecomment=[l]{;}, % mark ; as line comment start
+ morecomment=[l]{\#}, % as well as # (even though it is unconventional)
+ morestring=[b]", % mark " as string start/end
+ morestring=[b]' % also mark ' as string start/end
+}
 
-    \section{Область применения языков программирования
-    низкого уровня. Поколения ПК IBM PC.}
-    \input{ticket_1.1.tex}
+% usage example:
 
-    \section{Базовая архитектура ПК IBM PC.}
-    \input{ticket_1.2.tex}
+% define some basic colors
+\definecolor{mauve}{rgb}{0.58,0,0.82}
 
-    \section{Организация памяти в реальном режиме работы.
-    Сегментые регистры. Понятие исполняемого и физического
-    адреса.}
-    \input{ticket_1.3.tex}
+\lstset{
+  % listings sonderzeichen (for german weirdness)
+ literate={?}{{\"o}}1
+ {?}{{\"a}}1
+ {?}{{\"u}}1,
+ basicstyle=\normalsize\ttfamily, % very small code
+ breaklines=true, % break long lines
+ commentstyle=\itshape\color{green!50!black}, % comments are green
+ keywordstyle=[1]\color{blue!80!black}, % instructions are blue
+ keywordstyle=[2]\color{orange!80!black}, % sections/other directives are orange
+ keywordstyle=[3]\color{red!50!black}, % registers are red
+ stringstyle=\color{mauve}, % strings are from the telekom
+ identifierstyle=\color{teal}, % user declared addresses are teal
+ frame=l, % black line on the left side of code
+ language=[RISC-V]Assembler, % all code is RISC-V
+ tabsize=4, % indent tabs with 4 spaces
+ showstringspaces=false % do not replace spaces with weird underlines
+}
 
-    \section{Процессор с точки зрения программиста. Регистры
-    обзего назначения. Регистры флагов.}
-    \input{ticket_1.4.tex}
+    \section{Часть 1.}
+
+        \subsection{Область применения языков программирования
+        низкого уровня. Поколения ПК IBM PC.}
+        \input{ticket_1.1.tex}
+
+        \subsection{Базовая архитектура ПК IBM PC.}
+        \input{ticket_1.2.tex}
+
+        \subsection{Организация памяти в реальном режиме работы.
+        Сегментые регистры. Понятие исполняемого и физического
+        адреса.}
+        \input{ticket_1.3.tex}
+
+        \subsection{Процессор с точки зрения программиста. Регистры
+        общего назначения. Регистры флагов.}
+        \input{ticket_1.4.tex}
+
+        \subsection{Понятие команды и директивы в Ассемблере.
+        Формат команды и директивы.}
+        \input{ticket_1.5.tex}
+
+        \subsection{Структура программы на Ассемблере с 
+        исполением стандартных директив сегментации.}
+        \input{ticket_1.6.tex}
+
+        \subsection{Основные элементы языка Ассемблера:
+        имена, константы, переменные, выражения.}
+        \input{ticket_1.7.tex}
+
+        \subsection{Команды пересылки, особенности их
+        использования. Команды пересылки безусловной и
+        условной, команды загрузки адреса.}
+        \input{ticket_1.8.tex}
 
 \end{document}
