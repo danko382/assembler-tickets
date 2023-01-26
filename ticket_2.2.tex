@@ -1,0 +1,77 @@
+После обработки компилятором и редактором связей мы на
+выходе получаем исполняемый exe"=файл, размером не менее
+512 байт (объём обязательного файла загрузки), но из него
+(не всегда) можно получить com"=файл.
+
+\textbf{Отличие COM"=файлов от EXE"=файлов:}
+\begin{enumerate}
+    \item{В com"=файлах отсутствует блок начальной загрузки
+    и следовательно он занимает меньше места, чем
+    exe"=файл;}
+    \item{exe"=файл может занимать произвольный объём ОП,
+    а com"=файл~--- только один сегмент памяти;}
+    \item{В com"=файле данные располагаются там же, где 
+    и программа.
+    
+    Т.к. вся программа содержится в одном сегменте, перед
+    выполнением программы все сегментые регистры содержат
+    в качестве значения адрес префикса программного
+    сегмента~--- PSP. Поэтому нужно осуществлять обход
+    префикса программного сегмента с помощью директивы
+    \textbf{org 100h}.}
+\end{enumerate}
+
+\textbf{Пример создания com"=файла:}
+
+\textbf{1:}
+\begin{lstlisting}
+    TITLE Prog_Com_файл
+    Page 60,85
+    CSeg Segment Para 'Code'
+    ASSUME SS:CSeg, DS:CSeg, CS:CSeg
+    Org 100h
+
+    Start: JMP Main
+        St1 DB 'String1',13,10,'$'
+        St2 DB 'String2','$'
+
+        Main Proc
+            MOV AH,9
+            LEA DX,St1
+            Int 21h
+            LEA DX,St2
+            Int 21h
+            MOV AH,4CH
+            Int 21h
+        Main endp
+        CSeg ends
+    end Start   
+\end{lstlisting}
+
+\textbf{2:}
+\begin{lstlisting}
+    .Model tiny
+    .Code
+        JMP Met
+        St1 DB 'String1','$'
+        Met:
+            MOV AH,09h
+            LEA DX,St1
+            Int 21h
+            MOV AH,4CH
+            Int 21h
+        end Met    
+\end{lstlisting}
+
+\textbf{3:}
+\begin{lstlisting}
+    Beg Proc
+        MOV AH,09h
+        LEA DX,St1
+        int 21h
+        MOV AH,4CH
+        int 21h
+    Beg endp
+    St1 DB 'String1','$'
+    end beg    
+\end{lstlisting}
