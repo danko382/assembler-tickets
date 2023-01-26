@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.15)  26 JAN 2023 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.15)  26 JAN 2023 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -544,7 +544,7 @@ Overfull \hbox (2.69287pt too wide) in paragraph at lines 16--22
 \T2A/cmr/m/n/10 в ар-хи-тек-ту-ру ком-пью-те-ра вхо-дит си-сте-ма пря-мо-го до-сту-па к па-мя-ти (ДМА)
  []
 
-<images/2_1.png, id=187, 430.0065pt x 325.215pt>
+<images/2_1.png, id=213, 430.0065pt x 325.215pt>
 File: images/2_1.png Graphic file (type png)
 <use images/2_1.png>
 Package pdftex.def Info: images/2_1.png  used on input line 24.
@@ -555,12 +555,12 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 24--25
  []
 
 ) (ticket_1.3.tex [4 <./images/2_1.png>]) (ticket_1.4.tex
-<images/1.4_1.png, id=194, 573.14125pt x 184.69pt>
+<images/1.4_1.png, id=220, 573.14125pt x 184.69pt>
 File: images/1.4_1.png Graphic file (type png)
 <use images/1.4_1.png>
 Package pdftex.def Info: images/1.4_1.png  used on input line 10.
 (pdftex.def)             Requested size: 312.9803pt x 100.85553pt.
-<images/1.4_2.png, id=195, 479.7925pt x 31.11626pt>
+<images/1.4_2.png, id=221, 479.7925pt x 31.11626pt>
 File: images/1.4_2.png Graphic file (type png)
 <use images/1.4_2.png>
 Package pdftex.def Info: images/1.4_2.png  used on input line 11.
@@ -570,44 +570,44 @@ Overfull \hbox (10.05585pt too wide) in paragraph at lines 25--28
 []\T2A/cmr/m/n/10 Вышеперечисленные ре-ги-стры мо-гут ис-поль-зо-вать-ся для вре-мен-но-го хран-
  []
 
-<images/1.4_3.png, id=200, 410.13225pt x 44.5665pt>
+<images/1.4_3.png, id=226, 410.13225pt x 44.5665pt>
 File: images/1.4_3.png Graphic file (type png)
 <use images/1.4_3.png>
 Package pdftex.def Info: images/1.4_3.png  used on input line 35.
 (pdftex.def)             Requested size: 284.52756pt x 30.91818pt.
-<images/1.4_4.png, id=201, 419.166pt x 238.491pt>
+<images/1.4_4.png, id=227, 419.166pt x 238.491pt>
 File: images/1.4_4.png Graphic file (type png)
 <use images/1.4_4.png>
 Package pdftex.def Info: images/1.4_4.png  used on input line 36.
 (pdftex.def)             Requested size: 284.52756pt x 161.88788pt.
-<images/1.4_5.png, id=202, 396.2805pt x 215.00325pt>
+<images/1.4_5.png, id=228, 396.2805pt x 215.00325pt>
 File: images/1.4_5.png Graphic file (type png)
 <use images/1.4_5.png>
 Package pdftex.def Info: images/1.4_5.png  used on input line 37.
 (pdftex.def)             Requested size: 284.52756pt x 154.38228pt.
 [6 <./images/1.4_1.png> <./images/1.4_2.png> <./images/1.4_3.png> <./images/1.4_4.png>]) (ticket_1.5.tex
-<images/1.5_4.png, id=209, 466.1415pt x 22.28325pt>
+<images/1.5_4.png, id=235, 466.1415pt x 22.28325pt>
 File: images/1.5_4.png Graphic file (type png)
 <use images/1.5_4.png>
 Package pdftex.def Info: images/1.5_4.png  used on input line 4.
 (pdftex.def)             Requested size: 284.52756pt x 13.60158pt.
-<images/1.5_1.png, id=210, 335.45325pt x 45.771pt>
+<images/1.5_1.png, id=236, 335.45325pt x 45.771pt>
 File: images/1.5_1.png Graphic file (type png)
 <use images/1.5_1.png>
 Package pdftex.def Info: images/1.5_1.png  used on input line 29.
 (pdftex.def)             Requested size: 227.62204pt x 31.0589pt.
-<images/1.5_2.png, id=211, 274.626pt x 40.35075pt>
+<images/1.5_2.png, id=237, 274.626pt x 40.35075pt>
 File: images/1.5_2.png Graphic file (type png)
 <use images/1.5_2.png>
 Package pdftex.def Info: images/1.5_2.png  used on input line 36.
 (pdftex.def)             Requested size: 170.71652pt x 25.08308pt.
-<images/1.5_3.png, id=212, 254.75175pt x 39.7485pt>
+<images/1.5_3.png, id=238, 254.75175pt x 39.7485pt>
 File: images/1.5_3.png Graphic file (type png)
 <use images/1.5_3.png>
 Package pdftex.def Info: images/1.5_3.png  used on input line 43.
 (pdftex.def)             Requested size: 170.71652pt x 26.6362pt.
  [7 <./images/1.4_5.png> <./images/1.5_4.png> <./images/1.5_1.png> <./images/1.5_2.png>]
-<images/1.5_5.png, id=222, 467.346pt x 25.2945pt>
+<images/1.5_5.png, id=248, 467.346pt x 25.2945pt>
 File: images/1.5_5.png Graphic file (type png)
 <use images/1.5_5.png>
 Package pdftex.def Info: images/1.5_5.png  used on input line 55.
@@ -657,17 +657,17 @@ Overfull \hbox (27.71729pt too wide) in paragraph at lines 42--43
  []
 
 ) (ticket_1.7.tex
-<images/1.7_1.png, id=246, 451.08525pt x 235.47975pt>
+<images/1.7_1.png, id=272, 451.08525pt x 235.47975pt>
 File: images/1.7_1.png Graphic file (type png)
 <use images/1.7_1.png>
 Package pdftex.def Info: images/1.7_1.png  used on input line 11.
 (pdftex.def)             Requested size: 369.88582pt x 193.09824pt.
-<images/1.7_2.png, id=247, 446.8695pt x 251.7405pt>
+<images/1.7_2.png, id=273, 446.8695pt x 251.7405pt>
 File: images/1.7_2.png Graphic file (type png)
 <use images/1.7_2.png>
 Package pdftex.def Info: images/1.7_2.png  used on input line 12.
 (pdftex.def)             Requested size: 369.88582pt x 208.38373pt.
-<images/1.7_3.png, id=248, 447.47176pt x 286.671pt>
+<images/1.7_3.png, id=274, 447.47176pt x 286.671pt>
 File: images/1.7_3.png Graphic file (type png)
 <use images/1.7_3.png>
 Package pdftex.def Info: images/1.7_3.png  used on input line 13.
@@ -688,18 +688,18 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 11--14
  []
 
 [9] [10 <./images/1.7_1.png> <./images/1.7_2.png>]) (ticket_1.8.tex [11 <./images/1.7_3.png>]
-<images/1.8_1.png, id=284, 443.256pt x 131.2905pt>
+<images/1.8_1.png, id=310, 443.256pt x 131.2905pt>
 File: images/1.8_1.png Graphic file (type png)
 <use images/1.8_1.png>
 Package pdftex.def Info: images/1.8_1.png  used on input line 58.
 (pdftex.def)             Requested size: 341.43306pt x 101.13203pt.
-<images/1.8_2.png, id=285, 411.33675pt x 205.9695pt>
+<images/1.8_2.png, id=311, 411.33675pt x 205.9695pt>
 File: images/1.8_2.png Graphic file (type png)
 <use images/1.8_2.png>
 Package pdftex.def Info: images/1.8_2.png  used on input line 59.
 (pdftex.def)             Requested size: 341.43306pt x 170.97348pt.
 ) (ticket_1.9.tex [12 <./images/1.8_1.png> <./images/1.8_2.png>]
-<images/1.9_1.png, id=294, 522.753pt x 123.46124pt>
+<images/1.9_1.png, id=320, 522.753pt x 123.46124pt>
 File: images/1.9_1.png Graphic file (type png)
 <use images/1.9_1.png>
 Package pdftex.def Info: images/1.9_1.png  used on input line 40.
@@ -710,12 +710,12 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 40--41
  []
 
 ) (ticket_1.10.tex
-<images/1.10_1.png, id=295, 520.344pt x 125.87025pt>
+<images/1.10_1.png, id=321, 520.344pt x 125.87025pt>
 File: images/1.10_1.png Graphic file (type png)
 <use images/1.10_1.png>
 Package pdftex.def Info: images/1.10_1.png  used on input line 2.
 (pdftex.def)             Requested size: 369.88582pt x 89.47797pt.
-<images/1.10_2.png, id=296, 469.755pt x 434.8245pt>
+<images/1.10_2.png, id=322, 469.755pt x 434.8245pt>
 File: images/1.10_2.png Graphic file (type png)
 <use images/1.10_2.png>
 Package pdftex.def Info: images/1.10_2.png  used on input line 3.
@@ -731,29 +731,29 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 2--4
  []
 
 [13 <./images/1.9_1.png> <./images/1.10_1.png>]) (ticket_2.1.tex [14 <./images/1.10_2.png>]
-<images/2.1_4.png, id=309, 371.58826pt x 231.264pt>
+<images/2.1_4.png, id=335, 371.58826pt x 231.264pt>
 File: images/2.1_4.png Graphic file (type png)
 <use images/2.1_4.png>
 Package pdftex.def Info: images/2.1_4.png  used on input line 30.
 (pdftex.def)             Requested size: 284.52756pt x 177.08928pt.
-<images/2.1_3.png, id=310, 305.34074pt x 184.89075pt>
+<images/2.1_3.png, id=336, 305.34074pt x 184.89075pt>
 File: images/2.1_3.png Graphic file (type png)
 <use images/2.1_3.png>
 Package pdftex.def Info: images/2.1_3.png  used on input line 31.
 (pdftex.def)             Requested size: 284.52756pt x 172.30206pt.
  [15 <./images/2.1_4.png> <./images/2.1_3.png>]
-<images/2.1_1.png, id=317, 392.667pt x 262.581pt>
+<images/2.1_1.png, id=343, 392.667pt x 262.581pt>
 File: images/2.1_1.png Graphic file (type png)
 <use images/2.1_1.png>
 Package pdftex.def Info: images/2.1_1.png  used on input line 51.
 (pdftex.def)             Requested size: 312.9803pt x 209.29579pt.
-<images/2.1_2.png, id=318, 261.3765pt x 266.1945pt>
+<images/2.1_2.png, id=344, 261.3765pt x 266.1945pt>
 File: images/2.1_2.png Graphic file (type png)
 <use images/2.1_2.png>
 Package pdftex.def Info: images/2.1_2.png  used on input line 56.
 (pdftex.def)             Requested size: 227.62204pt x 231.8148pt.
 ) (ticket_2.2.tex [16 <./images/2.1_1.png> <./images/2.1_2.png>] [17]) (ticket_2.3.tex [18]) (ticket_2.4.tex
-<images/2.4_1.png, id=391, 529.37775pt x 388.45125pt>
+<images/2.4_1.png, id=417, 529.37775pt x 388.45125pt>
 File: images/2.4_1.png Graphic file (type png)
 <use images/2.4_1.png>
 Package pdftex.def Info: images/2.4_1.png  used on input line 2.
@@ -764,39 +764,39 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 2--3
  []
 
 [19]) (ticket_2.5.tex
-<images/2.5_1.png, id=415, 407.121pt x 247.52475pt>
+<images/2.5_1.png, id=441, 407.121pt x 247.52475pt>
 File: images/2.5_1.png Graphic file (type png)
 <use images/2.5_1.png>
 Package pdftex.def Info: images/2.5_1.png  used on input line 2.
 (pdftex.def)             Requested size: 341.43306pt x 207.59833pt.
-<images/2.5_2.png, id=416, 394.47375pt x 212.59425pt>
+<images/2.5_2.png, id=442, 394.47375pt x 212.59425pt>
 File: images/2.5_2.png Graphic file (type png)
 <use images/2.5_2.png>
 Package pdftex.def Info: images/2.5_2.png  used on input line 3.
 (pdftex.def)             Requested size: 341.43306pt x 184.00827pt.
  [20 <./images/2.4_1.png>]) (ticket_2.6.tex
-<images/2.6_1.png, id=422, 392.667pt x 232.4685pt>
+<images/2.6_1.png, id=448, 392.667pt x 232.4685pt>
 File: images/2.6_1.png Graphic file (type png)
 <use images/2.6_1.png>
 Package pdftex.def Info: images/2.6_1.png  used on input line 4.
 (pdftex.def)             Requested size: 341.43306pt x 202.13954pt.
-<images/2.6_2.png, id=423, 384.83775pt x 231.86626pt>
+<images/2.6_2.png, id=449, 384.83775pt x 231.86626pt>
 File: images/2.6_2.png Graphic file (type png)
 <use images/2.6_2.png>
 Package pdftex.def Info: images/2.6_2.png  used on input line 5.
 (pdftex.def)             Requested size: 341.43306pt x 205.727pt.
-<images/2.6_3.png, id=424, 340.27126pt x 151.16475pt>
+<images/2.6_3.png, id=450, 340.27126pt x 151.16475pt>
 File: images/2.6_3.png Graphic file (type png)
 <use images/2.6_3.png>
 Package pdftex.def Info: images/2.6_3.png  used on input line 6.
 (pdftex.def)             Requested size: 312.9803pt x 139.04787pt.
-<images/2.6_4.png, id=425, 399.894pt x 30.71475pt>
+<images/2.6_4.png, id=451, 399.894pt x 30.71475pt>
 File: images/2.6_4.png Graphic file (type png)
 <use images/2.6_4.png>
 Package pdftex.def Info: images/2.6_4.png  used on input line 7.
 (pdftex.def)             Requested size: 341.43306pt x 26.22528pt.
  [21 <./images/2.5_1.png> <./images/2.5_2.png>] [22 <./images/2.6_1.png> <./images/2.6_2.png> <./images/2.6_3.png>]
-<images/2.6_5.png, id=439, 696.201pt x 189.70876pt>
+<images/2.6_5.png, id=465, 696.201pt x 189.70876pt>
 File: images/2.6_5.png Graphic file (type png)
 <use images/2.6_5.png>
 Package pdftex.def Info: images/2.6_5.png  used on input line 25.
@@ -806,33 +806,46 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 25--26
  [] 
  []
 
-) (ticket_2.7.tex [23 <./images/2.6_4.png> <./images/2.6_5.png>]
-<images/2.7_1.png, id=446, 257.16075pt x 36.135pt>
+<images/2.6_6.png, id=466, 244.5135pt x 386.6445pt>
+File: images/2.6_6.png Graphic file (type png)
+<use images/2.6_6.png>
+Package pdftex.def Info: images/2.6_6.png  used on input line 42.
+(pdftex.def)             Requested size: 369.88582pt x 584.92108pt.
+
+Overfull \hbox (24.88582pt too wide) in paragraph at lines 42--43
+ [] 
+ []
+
+[23 <./images/2.6_4.png> <./images/2.6_5.png>]
+Overfull \vbox (34.92108pt too high) has occurred while \output is active []
+
+ [24 <./images/2.6_6.png>]) (ticket_2.7.tex
+<images/2.7_1.png, id=478, 257.16075pt x 36.135pt>
 File: images/2.7_1.png Graphic file (type png)
 <use images/2.7_1.png>
 Package pdftex.def Info: images/2.7_1.png  used on input line 22.
 (pdftex.def)             Requested size: 199.16928pt x 27.98666pt.
-<images/2.7_2.png, id=447, 209.583pt x 36.73724pt>
+<images/2.7_2.png, id=479, 209.583pt x 36.73724pt>
 File: images/2.7_2.png Graphic file (type png)
 <use images/2.7_2.png>
 Package pdftex.def Info: images/2.7_2.png  used on input line 35.
 (pdftex.def)             Requested size: 170.71652pt x 29.92459pt.
-<images/2.7_3.png, id=448, 271.0125pt x 34.9305pt>
+<images/2.7_3.png, id=480, 271.0125pt x 34.9305pt>
 File: images/2.7_3.png Graphic file (type png)
 <use images/2.7_3.png>
 Package pdftex.def Info: images/2.7_3.png  used on input line 46.
 (pdftex.def)             Requested size: 199.16928pt x 25.67172pt.
-<images/2.7_4.png, id=449, 282.45525pt x 17.46526pt>
+<images/2.7_4.png, id=481, 282.45525pt x 17.46526pt>
 File: images/2.7_4.png Graphic file (type png)
 <use images/2.7_4.png>
 Package pdftex.def Info: images/2.7_4.png  used on input line 54.
 (pdftex.def)             Requested size: 199.16928pt x 12.3154pt.
-<images/2.7_5.png, id=450, 302.93175pt x 354.72525pt>
+<images/2.7_5.png, id=482, 302.93175pt x 354.72525pt>
 File: images/2.7_5.png Graphic file (type png)
 <use images/2.7_5.png>
 Package pdftex.def Info: images/2.7_5.png  used on input line 55.
 (pdftex.def)             Requested size: 369.88582pt x 433.15929pt.
-<images/2.7_6.png, id=451, 304.13625pt x 228.25275pt>
+<images/2.7_6.png, id=483, 304.13625pt x 228.25275pt>
 File: images/2.7_6.png Graphic file (type png)
 <use images/2.7_6.png>
 Package pdftex.def Info: images/2.7_6.png  used on input line 56.
@@ -847,35 +860,35 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 54--57
  [] 
  []
 
-[24 <./images/2.7_1.png> <./images/2.7_2.png> <./images/2.7_3.png> <./images/2.7_4.png>] [25 <./images/2.7_5.png>]) (ticket_2.8.tex
-<images/2.8_1.png, id=466, 426.99525pt x 126.4725pt>
+[25 <./images/2.7_1.png> <./images/2.7_2.png> <./images/2.7_3.png>] [26 <./images/2.7_4.png> <./images/2.7_5.png>]) (ticket_2.8.tex
+<images/2.8_1.png, id=498, 426.99525pt x 126.4725pt>
 File: images/2.8_1.png Graphic file (type png)
 <use images/2.8_1.png>
 Package pdftex.def Info: images/2.8_1.png  used on input line 2.
 (pdftex.def)             Requested size: 341.43306pt x 101.13567pt.
-<images/2.8_2.png, id=467, 470.9595pt x 218.0145pt>
+<images/2.8_2.png, id=499, 470.9595pt x 218.0145pt>
 File: images/2.8_2.png Graphic file (type png)
 <use images/2.8_2.png>
 Package pdftex.def Info: images/2.8_2.png  used on input line 3.
 (pdftex.def)             Requested size: 341.43306pt x 158.06143pt.
- [26 <./images/2.7_6.png>]) (ticket_2.9.tex
-<images/2.9_1.png, id=473, 466.74374pt x 272.217pt>
+ [27 <./images/2.7_6.png>]) (ticket_2.9.tex
+<images/2.9_1.png, id=505, 466.74374pt x 272.217pt>
 File: images/2.9_1.png Graphic file (type png)
 <use images/2.9_1.png>
 Package pdftex.def Info: images/2.9_1.png  used on input line 2.
 (pdftex.def)             Requested size: 341.43306pt x 199.14041pt.
- [27 <./images/2.8_1.png> <./images/2.8_2.png> <./images/2.9_1.png>]
-<images/2.9_2.png, id=481, 464.33475pt x 455.90324pt>
+ [28 <./images/2.8_1.png> <./images/2.8_2.png> <./images/2.9_1.png>]
+<images/2.9_2.png, id=513, 464.33475pt x 455.90324pt>
 File: images/2.9_2.png Graphic file (type png)
 <use images/2.9_2.png>
 Package pdftex.def Info: images/2.9_2.png  used on input line 4.
 (pdftex.def)             Requested size: 369.88582pt x 363.18568pt.
-<images/2.9_3.png, id=482, 470.9595pt x 196.3335pt>
+<images/2.9_3.png, id=514, 470.9595pt x 196.3335pt>
 File: images/2.9_3.png Graphic file (type png)
 <use images/2.9_3.png>
 Package pdftex.def Info: images/2.9_3.png  used on input line 5.
 (pdftex.def)             Requested size: 341.43306pt x 142.34262pt.
-<images/2.9_4.png, id=483, 466.1415pt x 319.79475pt>
+<images/2.9_4.png, id=515, 466.1415pt x 319.79475pt>
 File: images/2.9_4.png Graphic file (type png)
 <use images/2.9_4.png>
 Package pdftex.def Info: images/2.9_4.png  used on input line 6.
@@ -885,80 +898,218 @@ Overfull \hbox (24.88582pt too wide) in paragraph at lines 4--7
  [][] 
  []
 
-[28 <./images/2.9_2.png> <./images/2.9_3.png>]) (ticket_2.10.tex
-<images/2.10_1.png, id=490, 442.0515pt x 215.00325pt>
+[29 <./images/2.9_2.png> <./images/2.9_3.png>]) (ticket_2.10.tex
+<images/2.10_1.png, id=522, 442.0515pt x 215.00325pt>
 File: images/2.10_1.png Graphic file (type png)
 <use images/2.10_1.png>
 Package pdftex.def Info: images/2.10_1.png  used on input line 2.
 (pdftex.def)             Requested size: 312.9803pt x 152.23016pt.
-<images/2.10_2.png, id=491, 467.346pt x 256.5585pt>
+<images/2.10_2.png, id=523, 467.346pt x 256.5585pt>
 File: images/2.10_2.png Graphic file (type png)
 <use images/2.10_2.png>
 Package pdftex.def Info: images/2.10_2.png  used on input line 3.
 (pdftex.def)             Requested size: 312.9803pt x 171.815pt.
- [29 <./images/2.9_4.png>])
+ [30 <./images/2.9_4.png>])
 Overfull \hbox (11.28098pt too wide) in paragraph at lines 163--163
 []\T2A/cmr/bx/n/12 Работа с фай-ла-ми. Де-скрип-тор фай-ла. Со-здать файл,
  []
 
 (ticket_3.1.tex) (ticket_4.1.tex
-<images/4.1_1.png, id=497, 434.22224pt x 301.125pt>
+<images/4.1_1.png, id=529, 434.22224pt x 301.125pt>
 File: images/4.1_1.png Graphic file (type png)
 <use images/4.1_1.png>
 Package pdftex.def Info: images/4.1_1.png  used on input line 2.
 (pdftex.def)             Requested size: 341.43306pt x 236.77419pt.
- [30 <./images/2.10_1.png> <./images/2.10_2.png>] [31 <./images/4.1_1.png>]
-<images/4.1_2.png, id=510, 426.393pt x 311.36325pt>
+ [31 <./images/2.10_1.png> <./images/2.10_2.png>] [32 <./images/4.1_1.png>]
+<images/4.1_2.png, id=542, 426.393pt x 311.36325pt>
 File: images/4.1_2.png Graphic file (type png)
 <use images/4.1_2.png>
 Package pdftex.def Info: images/4.1_2.png  used on input line 4.
 (pdftex.def)             Requested size: 341.43306pt x 249.32848pt.
-<images/4.1_3.png, id=511, 437.2335pt x 313.77225pt>
+<images/4.1_3.png, id=543, 437.2335pt x 313.77225pt>
 File: images/4.1_3.png Graphic file (type png)
 <use images/4.1_3.png>
 Package pdftex.def Info: images/4.1_3.png  used on input line 5.
 (pdftex.def)             Requested size: 341.43306pt x 245.02863pt.
-<images/4.1_4.png, id=512, 439.6425pt x 308.352pt>
+<images/4.1_4.png, id=544, 439.6425pt x 308.352pt>
 File: images/4.1_4.png Graphic file (type png)
 <use images/4.1_4.png>
 Package pdftex.def Info: images/4.1_4.png  used on input line 6.
 (pdftex.def)             Requested size: 341.43306pt x 239.47847pt.
-<images/4.1_5.png, id=513, 434.8245pt x 317.38576pt>
+<images/4.1_5.png, id=545, 434.8245pt x 317.38576pt>
 File: images/4.1_5.png Graphic file (type png)
 <use images/4.1_5.png>
 Package pdftex.def Info: images/4.1_5.png  used on input line 7.
 (pdftex.def)             Requested size: 341.43306pt x 249.22101pt.
-<images/4.1_6.png, id=514, 430.0065pt x 288.47775pt>
+<images/4.1_6.png, id=546, 430.0065pt x 288.47775pt>
 File: images/4.1_6.png Graphic file (type png)
 <use images/4.1_6.png>
 Package pdftex.def Info: images/4.1_6.png  used on input line 8.
 (pdftex.def)             Requested size: 341.43306pt x 229.05699pt.
-<images/4.1_7.png, id=515, 411.939pt x 319.79475pt>
+<images/4.1_7.png, id=547, 411.939pt x 319.79475pt>
 File: images/4.1_7.png Graphic file (type png)
 <use images/4.1_7.png>
 Package pdftex.def Info: images/4.1_7.png  used on input line 9.
 (pdftex.def)             Requested size: 341.43306pt x 265.05872pt.
-<images/4.1_8.png, id=516, 398.08725pt x 273.4215pt>
+<images/4.1_8.png, id=548, 398.08725pt x 273.4215pt>
 File: images/4.1_8.png Graphic file (type png)
 <use images/4.1_8.png>
 Package pdftex.def Info: images/4.1_8.png  used on input line 10.
 (pdftex.def)             Requested size: 341.43306pt x 234.52042pt.
- [32 <./images/4.1_2.png> <./images/4.1_3.png>] [33 <./images/4.1_4.png> <./images/4.1_5.png>] [34 <./images/4.1_6.png> <./images/4.1_7.png>]) (ticket_4.2.tex) [35 <./images/4.1_8.png>] (main.aux)
+ [33 <./images/4.1_2.png> <./images/4.1_3.png>] [34 <./images/4.1_4.png> <./images/4.1_5.png>] [35 <./images/4.1_6.png> <./images/4.1_7.png>]) (ticket_4.2.tex
+<images/4.2_1.png, id=567, 432.4155pt x 276.43275pt>
+File: images/4.2_1.png Graphic file (type png)
+<use images/4.2_1.png>
+Package pdftex.def Info: images/4.2_1.png  used on input line 2.
+(pdftex.def)             Requested size: 341.43306pt x 218.2698pt.
+<images/4.2_2.png, id=568, 439.6425pt x 294.50024pt>
+File: images/4.2_2.png Graphic file (type png)
+<use images/4.2_2.png>
+Package pdftex.def Info: images/4.2_2.png  used on input line 3.
+(pdftex.def)             Requested size: 341.43306pt x 228.72064pt.
+<images/4.2_3.png, id=569, 421.575pt x 306.54526pt>
+File: images/4.2_3.png Graphic file (type png)
+<use images/4.2_3.png>
+Package pdftex.def Info: images/4.2_3.png  used on input line 4.
+(pdftex.def)             Requested size: 341.43306pt x 248.2769pt.
+<images/4.2_4.png, id=570, 436.63126pt x 304.13625pt>
+File: images/4.2_4.png Graphic file (type png)
+<use images/4.2_4.png>
+Package pdftex.def Info: images/4.2_4.png  used on input line 5.
+(pdftex.def)             Requested size: 341.43306pt x 237.82396pt.
+<images/4.2_5.png, id=571, 430.60875pt x 267.399pt>
+File: images/4.2_5.png Graphic file (type png)
+<use images/4.2_5.png>
+Package pdftex.def Info: images/4.2_5.png  used on input line 6.
+(pdftex.def)             Requested size: 341.43306pt x 212.02629pt.
+<images/4.2_6.png, id=572, 401.0985pt x 237.2865pt>
+File: images/4.2_6.png Graphic file (type png)
+<use images/4.2_6.png>
+Package pdftex.def Info: images/4.2_6.png  used on input line 7.
+(pdftex.def)             Requested size: 341.43306pt x 201.98773pt.
+<images/4.2_7.png, id=573, 419.166pt x 277.035pt>
+File: images/4.2_7.png Graphic file (type png)
+<use images/4.2_7.png>
+Package pdftex.def Info: images/4.2_7.png  used on input line 8.
+(pdftex.def)             Requested size: 341.43306pt x 225.66104pt.
+ [36 <./images/4.1_8.png>] [37 <./images/4.2_1.png> <./images/4.2_2.png>] [38 <./images/4.2_3.png> <./images/4.2_4.png>] [39 <./images/4.2_5.png> <./images/4.2_6.png>]) (ticket_4.3.tex
+<images/4.3_1.png, id=598, 415.5525pt x 285.4665pt>
+File: images/4.3_1.png Graphic file (type png)
+<use images/4.3_1.png>
+Package pdftex.def Info: images/4.3_1.png  used on input line 2.
+(pdftex.def)             Requested size: 341.43306pt x 234.55882pt.
+<images/4.3_2.png, id=599, 407.72325pt x 245.718pt>
+File: images/4.3_2.png Graphic file (type png)
+<use images/4.3_2.png>
+Package pdftex.def Info: images/4.3_2.png  used on input line 3.
+(pdftex.def)             Requested size: 341.43306pt x 205.76807pt.
+<images/4.3_3.png, id=600, 426.99525pt x 318.59026pt>
+File: images/4.3_3.png Graphic file (type png)
+<use images/4.3_3.png>
+Package pdftex.def Info: images/4.3_3.png  used on input line 4.
+(pdftex.def)             Requested size: 341.43306pt x 254.7656pt.
+ [40 <./images/4.2_7.png>] [41 <./images/4.3_1.png> <./images/4.3_2.png>]) (ticket_4.4.tex
+<images/4.4_1.png, id=612, 348.1005pt x 33.726pt>
+File: images/4.4_1.png Graphic file (type png)
+<use images/4.4_1.png>
+Package pdftex.def Info: images/4.4_1.png  used on input line 2.
+(pdftex.def)             Requested size: 369.88582pt x 35.83685pt.
+<images/4.4_2.png, id=613, 261.97874pt x 368.577pt>
+File: images/4.4_2.png Graphic file (type png)
+<use images/4.4_2.png>
+Package pdftex.def Info: images/4.4_2.png  used on input line 3.
+(pdftex.def)             Requested size: 398.33858pt x 560.43967pt.
+<images/4.4_3.png, id=614, 263.18324pt x 72.87225pt>
+File: images/4.4_3.png Graphic file (type png)
+<use images/4.4_3.png>
+Package pdftex.def Info: images/4.4_3.png  used on input line 4.
+(pdftex.def)             Requested size: 398.33858pt x 110.30551pt.
+
+Overfull \hbox (24.88582pt too wide) in paragraph at lines 2--5
+ [] 
+ []
+
+
+Overfull \hbox (53.33858pt too wide) in paragraph at lines 2--5
+ [] 
+ []
+
+
+Overfull \hbox (53.33858pt too wide) in paragraph at lines 2--5
+ [] 
+ []
+
+[42 <./images/4.3_3.png> <./images/4.4_1.png>]
+Overfull \vbox (10.43967pt too high) has occurred while \output is active []
+
+ [43 <./images/4.4_2.png>]) (ticket_4.5.tex
+<images/4.5_1.png, id=627, 425.1885pt x 277.63725pt>
+File: images/4.5_1.png Graphic file (type png)
+<use images/4.5_1.png>
+Package pdftex.def Info: images/4.5_1.png  used on input line 2.
+(pdftex.def)             Requested size: 341.43306pt x 222.96161pt.
+<images/4.5_2.png, id=628, 404.712pt x 320.99925pt>
+File: images/4.5_2.png Graphic file (type png)
+<use images/4.5_2.png>
+Package pdftex.def Info: images/4.5_2.png  used on input line 3.
+(pdftex.def)             Requested size: 341.43306pt x 270.82285pt.
+<images/4.5_3.png, id=629, 425.1885pt x 290.88675pt>
+File: images/4.5_3.png Graphic file (type png)
+<use images/4.5_3.png>
+Package pdftex.def Info: images/4.5_3.png  used on input line 4.
+(pdftex.def)             Requested size: 341.43306pt x 233.60185pt.
+<images/4.5_4.png, id=630, 360.74776pt x 320.397pt>
+File: images/4.5_4.png Graphic file (type png)
+<use images/4.5_4.png>
+Package pdftex.def Info: images/4.5_4.png  used on input line 5.
+(pdftex.def)             Requested size: 341.43306pt x 303.26564pt.
+<images/4.5_5.png, id=631, 420.3705pt x 305.943pt>
+File: images/4.5_5.png Graphic file (type png)
+<use images/4.5_5.png>
+Package pdftex.def Info: images/4.5_5.png  used on input line 6.
+(pdftex.def)             Requested size: 341.43306pt x 248.50336pt.
+<images/4.5_6.png, id=632, 405.9165pt x 312.56775pt>
+File: images/4.5_6.png Graphic file (type png)
+<use images/4.5_6.png>
+Package pdftex.def Info: images/4.5_6.png  used on input line 7.
+(pdftex.def)             Requested size: 341.43306pt x 262.91757pt.
+ [44 <./images/4.4_3.png>] [45 <./images/4.5_1.png> <./images/4.5_2.png>] [46 <./images/4.5_3.png> <./images/4.5_4.png>]) (ticket_4.6.tex
+<images/4.6_1.png, id=650, 417.35925pt x 63.23625pt>
+File: images/4.6_1.png Graphic file (type png)
+<use images/4.6_1.png>
+Package pdftex.def Info: images/4.6_1.png  used on input line 2.
+(pdftex.def)             Requested size: 341.43306pt x 51.73343pt.
+<images/4.6_2.png, id=651, 426.99525pt x 304.13625pt>
+File: images/4.6_2.png Graphic file (type png)
+<use images/4.6_2.png>
+Package pdftex.def Info: images/4.6_2.png  used on input line 3.
+(pdftex.def)             Requested size: 341.43306pt x 243.20723pt.
+<images/4.6_3.png, id=652, 445.665pt x 296.90926pt>
+File: images/4.6_3.png Graphic file (type png)
+<use images/4.6_3.png>
+Package pdftex.def Info: images/4.6_3.png  used on input line 4.
+(pdftex.def)             Requested size: 341.43306pt x 227.4701pt.
+ [47 <./images/4.5_5.png> <./images/4.5_6.png>])
+Overfull \hbox (0.5475pt too wide) in paragraph at lines 190--190
+[]\T2A/cmr/bx/n/12 Организация ра-бо-ты со стро-ка-ми, уста-нов-ка и сброс
+ []
+
+(ticket_4.7.tex) [48 <./images/4.6_1.png> <./images/4.6_2.png> <./images/4.6_3.png>] [49] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 78C1ABD666F3C87503AFC70A7A181ABA;13905.
+(rerunfilecheck)             Checksum: B5362E610E20AA1A69AE668C8DE7BCFA;16203.
  ) 
 Here is how much of TeX's memory you used:
- 14049 strings out of 476406
- 217633 string characters out of 2789567
+ 14328 strings out of 476406
+ 222828 string characters out of 2789567
  1946787 words of memory out of 3000000
- 33941 multiletter control sequences out of 15000+600000
+ 34163 multiletter control sequences out of 15000+600000
  519465 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,77p,1508b,2076s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Danko\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1000.pk> <C:\Users\Danko\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lait1000.pk> <C:\Users\Danko\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Danko\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Danko\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Danko\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Users/Danko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Danko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Danko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (35 pages, 3978855 bytes).
+Output written on main.pdf (49 pages, 6425424 bytes).
 PDF statistics:
- 1054 PDF objects out of 1200 (max. 8388607)
- 188 named destinations out of 1000 (max. 500000)
- 482 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1192 PDF objects out of 1200 (max. 8388607)
+ 207 named destinations out of 1000 (max. 500000)
+ 637 words of extra memory for PDF output out of 10000 (max. 10000000)
 
